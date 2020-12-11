@@ -5,8 +5,16 @@ When Apple and other tech companies release products such as the IPhone and IPad
 ## EDA Questions
 
 1. according to the model how do the sentiment percentage breakdowns for ipad and iphone compare?
-<img src="images/ipad.png/"> 
+
+ipad...
+<img src="images/ipad.png/">
+
+iphone...
 <img src="images/iphone.png/"> 
+
 2. what are the top 5 most common words for tweets of negative, positive, and neutral sentiment?
 3. how long is the average tweet of each sentiment?
+
+<img src="images/lengths.jpg/"> 
+
 4. what are the most used hashtags throughout the dataset?
