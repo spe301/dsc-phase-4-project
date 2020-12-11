@@ -12,6 +12,9 @@ When Apple and other tech companies release products such as the IPhone and IPad
 
 4. what are the most used hashtags throughout the dataset?
 
+
+## Findings
+
 1. 
 
 ipad...
