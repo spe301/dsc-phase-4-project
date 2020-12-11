@@ -48,6 +48,18 @@ positive sentiment...
 
 ## Modeling
 
+Initially I tried a Feed Forward Neural Network but got bad results, about 60% accuracy for training and testing. I then created a parameter testing function that builds Recurrent Neurral Networks, RNN's, of varying parameters and architectures, I used RNN's because their ability to model sequential data makes them great for NLP projects like this one. These included Bidirectional LSTM's , the one I ended up using as the final model, but also LSTM's and GRU's. The model preformed reasonably well, it had 99% training accuracy and 97% validation accuracy with a loss of ~0.1 or less but it was overfit and only got about 65% testing accuracy. I tried balancing class weights to solve class imbalance and I also tried creating word embeddings with the Gensim Library rather than building my own. I also tried PCA with a random forest but it didn't do too well either.
+for more on this check out my blog! Or you can check out my notebook within this repo.
+
+https://aacjpw.wixsite.com/website-1/post/twitter-sentiment-project
+
 ## Evaluation
 
+To Evaluate my model I decided to test it on tweets from outside the dataset. I was able to do this with the help of the Tweepy Module, they make accessing the Twitter API a piece of cake! I built a function that returns a table showing tweets on a selected topic and their predicted sentiment
+
+
+Google tweet predictions
+<img src="images/Screenshot (25).png/"> 
+
+Covid tweet predictions
 <img src="images/Covid.png/"> 
