@@ -15,7 +15,7 @@ When Apple and other tech companies release products such as the IPhone and IPad
 
 ## Findings
 
-1. 
+1. The iphone tweets were all labled as neutral or positive whereas some ipad tweets were labled as negative. This is likley due to the randomness of tweets provided by the tweepy module as each query only returns about 10 - 20 random tweets on a given topic. However as a user I have certainly had a better experiance with the iphone than the ipad.
 
 ipad...
 <img src="images/ipad.png/">
@@ -23,10 +23,14 @@ ipad...
 iphone...
 <img src="images/iphone.png/"> 
 
-2.
+2. #sxsw was a very popular term throughout the dataset, among them google, apple, and ipad were very popular words. #sxsw refers to the South By Southwest, an annual film festival hosted in Austin, TX. This is likley because these tweets may of been collected around the same time of year that the festival is held in mid-march.
 
-3.
+3. The Tweets remain about 18-20 characters long regardless of sentiment. Blindly looking at how long a tweet is would definatley be a good indicator of sentiment it takes a much closer analysis to properly classify these tweets.
 
 <img src="images/lengths.png/"> 
+
+4. #sxsw along with ... were very widley used.
+
+
 
 4.
