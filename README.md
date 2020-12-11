@@ -6,15 +6,24 @@ When Apple and other tech companies release products such as the IPhone and IPad
 
 1. according to the model how do the sentiment percentage breakdowns for ipad and iphone compare?
 
+2. what are the top 5 most common words for tweets of negative, positive, and neutral sentiment?
+
+3. how long is the average tweet of each sentiment?
+
+4. what are the most used hashtags throughout the dataset?
+
+1. 
+
 ipad...
 <img src="images/ipad.png/">
 
 iphone...
 <img src="images/iphone.png/"> 
 
-2. what are the top 5 most common words for tweets of negative, positive, and neutral sentiment?
-3. how long is the average tweet of each sentiment?
+2.
 
-<img src="images/lengths.jpg/"> 
+3.
 
-4. what are the most used hashtags throughout the dataset?
+<img src="images/lengths.png/"> 
+
+4.
