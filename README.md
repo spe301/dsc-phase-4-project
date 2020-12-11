@@ -28,8 +28,26 @@ iphone...
 
 2. #sxsw was a very popular term throughout the dataset, among them google, apple, and ipad were very popular words. #sxsw refers to the South By Southwest, an annual film festival hosted in Austin, TX. This is likley because these tweets may of been collected around the same time of year that the festival is held in mid-march.
 
+positive sentiment...
+<img src="images/pos.png/"> 
+
+neutral sentiment...
+<img src="images/neu.png/"> 
+
+negative sentiment...
+<img src="images/neg.png/"> 
+
 3. The Tweets remain about 18-20 characters long regardless of sentiment. Blindly looking at how long a tweet is would definatley be a good indicator of sentiment it takes a much closer analysis to properly classify these tweets.
 
 <img src="images/lengths.png/"> 
 
-4. #sxsw along with ... were very widley used.
+4. '#sxsw' and it's variants; '#sxsw!', '#sxsw?', '#sxsw.', and '#sxsw:', was by far the most popular hashtag and it was used over 8,000 times throughout the dataset. most of the other hashtags refered to tech companies and tech products. '#austin' was also popular as the sxsw film festival is hosted in Austin, TX.
+
+positive sentiment...
+<img src="images/hashtags.png/"> 
+
+## Modeling
+
+## Evaluation
+
+<img src="images/Covid.png/"> 
