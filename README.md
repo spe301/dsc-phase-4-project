@@ -63,3 +63,8 @@ Google tweet predictions
 
 Covid tweet predictions
 <img src="images/Covid.png/"> 
+
+## Future works
+
+With more time to work on this project I would use my model to label tweets my their sentiment and use that feature alongside other features to create a polarity predictor!
+I see value in this because I feel like social media is seperating us and making political polarization worse, so maybe it could be good to be able flag tweets as having a dangerousley high polarity.
