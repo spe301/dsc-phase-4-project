@@ -68,7 +68,7 @@ Covid tweet predictions
 
 Finally, I tested my model on the testing dataset and the results were somewhat disappointing, however the model was definatley better than random guessing.
 
-<img src="images/Download.png/">
+<img src="images/download.png/">
 
 
 ## Future works
