@@ -64,6 +64,12 @@ Google tweet predictions
 Covid tweet predictions
 <img src="images/Covid.png/"> 
 
+## Final Evaluation
+
+Finally, I tested my model on the testing dataset and the results were somewhat disappointing, however the model was definatley better than random guessing.
+
+
+
 ## Future works
 
 With more time to work on this project I would use my model to label tweets my their sentiment and use that feature alongside other features to create a polarity predictor!
